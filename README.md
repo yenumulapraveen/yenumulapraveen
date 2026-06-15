@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Praveen 👋</h1>
+<h1 align="center">Hi, I'm Yenumula Venkata Praveen 👋</h1>
 
 <p align="center">
   <b>AI/ML + Full Stack Developer &nbsp;|&nbsp; B.Tech CSE (AI & ML) @ VIT-AP Amaravati &nbsp;|&nbsp; Class of 2026</b>
